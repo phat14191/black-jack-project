@@ -11,7 +11,8 @@ This is a card game also called twenty-one using language JavaScript. The site a
 
 For the live version of this game card, check out <https://phat14191.github.io/blackJack-javaScript/>
 
-## How to download
+## Setup instructions
+
 1) git clone https://github.com/phat14191/blackJack-javaScript.git
 2) cd blackJack-javaScript
 3) click on file: index.html
